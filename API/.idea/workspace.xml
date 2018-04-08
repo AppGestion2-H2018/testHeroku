@@ -34,6 +34,16 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="www" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bin/www">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
@@ -41,7 +51,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bibliotheque.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bibliotheque.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/API/bibliotheque/bibliotheque.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -125,6 +135,11 @@
             <path>
               <item name="API" type="b2602c69:ProjectViewProjectNode" />
               <item name="API" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="API" type="b2602c69:ProjectViewProjectNode" />
+              <item name="API" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bin" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="API" type="b2602c69:ProjectViewProjectNode" />
@@ -234,12 +249,12 @@
       <workItem from="1522786247265" duration="752000" />
       <workItem from="1522798625102" duration="369000" />
       <workItem from="1523214278783" duration="69000" />
-      <workItem from="1523216925847" duration="287000" />
+      <workItem from="1523216925847" duration="497000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1477000" />
+    <option name="totallyTimeSpent" value="1687000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -408,14 +423,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -428,6 +435,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
